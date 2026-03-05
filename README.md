@@ -33,7 +33,7 @@ State can be shared by lifting the state up to a common parent component and pas
 
 Event handling in React is done using camelCase event names and functions.
 
-Example: **<button onClick={handleClick}>Click</button>**
+Example: button onClick={handleClick} Click  /button
 
 ---
 
